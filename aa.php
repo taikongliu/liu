@@ -9,6 +9,7 @@
 // | Author: liu21st <liu21st@gmail.com>
 // +----------------------------------------------------------------------
 
+// 加入注释
 return [
     // 生成应用公共文件
     '__file__' => ['common.php', 'config.php', 'database.php'],
